@@ -3,6 +3,10 @@
 !! Nouns in the Oroha language refer to objects or sets of objects, qualities, states or ideas.
 
 LEXICON Nouns
-noun+N:noun    Cases   ;
-
+maa+N:maa   n1 "asdf" ;
+nemo+N:nemo n1 "rain" ;
+ha'a+N:ha'a n1 "money" ;
+poo+N:poo n1 "pig" ;
+mane+N:mane n1 "man" ;
+mera-N:mera n1 "child" ;
 ! vim: set ft=xfst-lexc:

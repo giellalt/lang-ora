@@ -3,6 +3,7 @@
 !! Adjectives in the Oroha language describe the entities nouns refer to.
 
 LEXICON Adjectives
-adjective    Comparisons   ;
+paina a1 "great" ;
+
 
 ! vim: set ft=xfst-lexc:

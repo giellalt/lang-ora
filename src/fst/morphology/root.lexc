@@ -141,9 +141,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 LEXICON Root
 !! The word forms in Oroha language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
- Nouns       ;
- Verbs       ;
- Adjectives  ;
+ NounPrefs       ;
+ VerbPrefs       ;
+ AdjectivePrefs  ;
+ Adverbs ;
  Pronouns    ;
  Numerals    ;
  Prefixes    ;

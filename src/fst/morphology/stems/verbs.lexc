@@ -3,6 +3,6 @@
 !! Verbs in the Oroha language inflect for tense.
 
 LEXICON Verbs
-verb    Persons   ;
+hai+V:hai vinfl   ; 
 
 ! vim: set ft=xfst-lexc:

@@ -3,6 +3,6 @@
 !! Numerals in the Oroha language describe a nuerical quantity.
 
 LEXICON Numerals
-numeral+Num:numeral    Cases   ;
+huni+Num:huni # "many" ; ! should be +Qu, perhaps
 
 ! vim: set ft=xfst-lexc:

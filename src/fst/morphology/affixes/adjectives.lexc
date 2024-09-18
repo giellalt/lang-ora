@@ -2,10 +2,11 @@
 !  --------------------
 !! The Oroha language adjectives compare.
 
-LEXICON Comparisons
-+A+Pos:0        Cases   ;
-+A+Comp:er       Cases   ;
-+A+Superl:est      Cases   ;
+LEXICON AdjectivePrefs
+Adjectives ; !!= @CODE@ = no prefix
+
+LEXICON a1
+# ;
 
 ! vim: set ft=xfst-lexc:
 
