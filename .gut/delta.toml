@@ -1,0 +1,10 @@
+template = ""
+rev_id = 188
+template_sha = "6a18636048c9dec23ea15911547db25d936866b8"
+
+[replacements]
+__LICENSE__ = "GPLv3"
+__REPO__ = "lang-ora"
+__UND2C__ = "ora"
+__UNDEFINED__ = "Oroha"
+__UND__ = "ora"
