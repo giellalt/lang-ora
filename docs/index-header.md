@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-ora)](https://github.com/giellalt/lang-ora/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ora)](https://github.com/giellalt/lang-ora/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-ora?label=CI)](https://builds.giellalt.org/pipelines/lang-ora/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Oroha language model**. 
 
