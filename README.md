@@ -1,12 +1,12 @@
 The Oroha morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ora%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ora%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ora%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ora%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ora)](https://github.com/giellalt/lang-ora/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-ora)](https://github.com/giellalt/lang-ora/blob/main/LICENSE)
-[![Doc Build Status](https://github.com/giellalt/lang-ora/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-ora/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ora/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ora/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-ora/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-ora/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-ora?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-ora/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
